@@ -1,12 +1,12 @@
-✍️ #Blog Writing Agent (LangGraph + Gemini)
+✍️ **Blog Writing Agent (LangGraph + Gemini)**
 
 An agentic AI system that plans, researches, writes, and optionally illustrates high-quality technical blog posts using LangGraph, Google Gemini, and Streamlit.
 
 This project demonstrates a production-grade multi-agent workflow with routing, research, parallel section writing, reduction, and image generation.
 
-#This repo consists of 3 sample md file that has been created with this project
+**This repo consists of 3 sample md file that has been created with this project**
 
-🚀 #What This Project Does
+🚀 **What This Project Does**
 
 Takes a blog topic as input
 
